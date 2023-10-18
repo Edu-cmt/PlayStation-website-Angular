@@ -1,0 +1,11 @@
+.home__container{
+    width: 80%;
+    margin-bottom: 5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    flex-wrap: wrap;
+}
